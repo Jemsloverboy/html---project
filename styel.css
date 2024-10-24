@@ -1,0 +1,161 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #F09393;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+
+.love{
+    margin-top: -35px;
+    width: 1920px;
+    height: 500px;
+    border-radius: 10%;
+}
+
+.kaduha{
+    text-align: center;
+    margin-top: -349px;
+    margin-left:320px;
+    height: 310px;
+    width: 780px;
+    border:0;
+    padding: 0;
+    background-color: #F78080;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    padding: 20px;
+}
+
+.p1{
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    position: relative;
+}
+
+.p3{
+    text-align: center;
+    padding: 5px;
+    font-size:70px;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.font{
+    text-align: left;
+    color: #E0E0E0;
+    font-family: "Nerko One", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.katulo{
+    text-align: center;
+    margin-left:530px;
+    height: 580px;
+    width: 850px;
+    border:0;
+    padding: 0;
+    background-color: #F78080;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.atik{
+    width: 200px;
+    height: 230px;
+    transition: 1s;
+}
+
+div{
+    display: inline-block;
+}
+
+p{
+    color: #E0E0E0;
+    font-family: "Nerko One", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.pic1{
+    height: 350px;
+    width: 350px;
+    margin-left: 1150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.love:hover{
+    content: url(./image/bini2.jpg);
+}
+
+.font2{
+    color:white;
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.kaupat{
+    margin-left: 5px;
+    height: 260px;
+    width: 850px;
+    border:0;
+    padding: 20px;
+    background-color: #F78080;
+}
+
+.cherry{
+    margin-bottom: -05px;
+    margin-left: 400px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.kalima{
+    margin-top: -235px;
+    margin-left: 400px;
+    height: 260px;
+    width: 850px;
+    border:0;
+    padding: 20px;
+    background-color: #F78080;
+}
+
+.salamin{
+    margin-bottom: -70px;
+    margin-left: 1300px;
+}
+
+.atik:hover{
+    transform:translateY(-20px);
+    z-index: 2;
+}
